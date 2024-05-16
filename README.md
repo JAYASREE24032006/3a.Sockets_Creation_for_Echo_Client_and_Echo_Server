@@ -1,4 +1,7 @@
-# 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+# EX.No.3A - CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+
+**DATE : 20.03.2024**
+
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
